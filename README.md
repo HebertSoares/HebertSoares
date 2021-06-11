@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/hebert-soares-492825139/) or
+[Twitter](https://twitter.com/HebertS52938834)
+
+- 🌱 I’m currently learning CSS and JavaScript
+
+
+
+
 <!--
 **HebertSoares/HebertSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
